@@ -1,0 +1,16 @@
+cd ~                        
+
+~ mkdir dev               
+
+~ cd dev                                  
+
+dev pwd
+/Users/martin/dev
+
+dev mkdir oop_day2       
+
+dev cd oop_day2     
+
+oop_day2 touch README.md
+
+oop_day2 cat README.md
